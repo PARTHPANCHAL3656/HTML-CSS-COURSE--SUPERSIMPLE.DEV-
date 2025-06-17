@@ -1,0 +1,69 @@
+a {
+    color: rgb(0, 0, 255);
+    text-underline-offset: 20px;
+    text-decoration: none;
+    font-style: italic;
+    font-size: 16px;
+}
+a:hover {
+    color: rgb(0, 216, 0);
+}
+p1 {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 30px;
+}
+p2 {
+    color: rgb(52, 217, 34);
+    font-weight: bold;
+    font-size: 15px;
+}
+p3 {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20px;
+}
+.Amazon-AddtoCart {
+    background-color: rgb(255,216,20);
+    color: black;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    height: 36px;
+    width: 120px;
+    font-size: 12px;
+    margin-right: 10px;
+    transition: background-color 0.2s, color 0.2s;
+}
+.Amazon-AddtoCart:hover {
+    cursor: pointer;
+    background-color: rgba(255,216,20,0.8);
+    color: black;
+}
+.Amazon-AddtoCart:active {
+    background-color: rgba(255,216,20,0.6);
+    color: black;
+}
+.Amazon-BUY-NOW {
+    background-color: rgb(255, 164, 28);
+    color: white;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    height: 36px;
+    width: 120px;
+    font-size: 12px;
+    margin-right: 10px;
+    transition: background-color 0.2s, color 0.2s;
+}
+.Amazon-BUY-NOW:hover {
+    cursor: pointer;
+    background-color: rgba(255, 164, 28, 0.8);
+    color: white;
+}
+.Amazon-BUY-NOW:active {
+    background-color: rgba(255, 164, 28, 0.6);
+    color: white;
+}
