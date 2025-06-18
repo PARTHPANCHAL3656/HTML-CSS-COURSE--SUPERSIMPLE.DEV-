@@ -1,47 +1,47 @@
 p {
-    font-family: Arial;
+  font-family: Arial;
 }
 .Video-Title {
-    font-size: 18px;
-    font-weight: bold;
-    width: 300px;
-    text-align: left;
-    line-height: 24px;
-    margin: 0px 0px 5px 0px;
+  font-size: 18px;
+  font-weight: bold;
+  width: 300px;
+  text-align: left;
+  line-height: 24px;
+  margin: 0px 0px 5px 0px;
 }
 .Video-stats {
-    color: rgb(96, 96, 96);
-    font-size: 15px;
-    margin: 0px 0px 20px 0px;
+  color: rgb(96, 96, 96);
+  font-size: 15px;
+  margin: 0px 0px 20px 0px;
 }
 .Video-Author {
-    font-size: 14px;
-    color: rgb(96, 96, 96);
-    margin: 0px 0px 20px 0px;
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin: 0px 0px 20px 0px;
 }
 .Video-discription {
-    font-size: 14px;
-    width: 280px;
-    line-height: 22px;
-    text-align: left;
-    color: rgb(96, 96, 96);
-    margin: 0px 0px 100px 0px;
+  font-size: 14px;
+  width: 280px;
+  line-height: 22px;
+  text-align: left;
+  color: rgb(96, 96, 96);
+  margin: 0px 0px 100px 0px;
 }
 .Video-apple-text {
-    font-size: 14px;
-    color: rgb(255, 255, 255);
-    font-family: Arial;
-    text-align: center;
-    background-color: rgb(227,65,64) ;
-    padding: 18px 20px 18px 20px;
-    margin: 0px 300px 50px 300px;
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  font-family: Arial;
+  text-align: center;
+  background-color: rgb(227, 65, 64);
+  padding: 18px 20px 18px 20px;
+  margin: 0px 300px 50px 300px;
 }
 .shop-now a {
-    color: inherit;
-    text-decoration: none;
+  color: inherit;
+  text-decoration: none;
 }
-.shop-now a:hover {  
-    color: rgb(0, 0, 255);
-    text-decoration: underline;
-    cursor: pointer;
+.shop-now a:hover {
+  color: rgb(0, 0, 255);
+  text-decoration: underline;
+  cursor: pointer;
 }
