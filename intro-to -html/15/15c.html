@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+        Close
+    </title>
+        <style>
+      .box {
+        height: 200px;
+        width: 400px;
+        display: flex;
+        flex-direction: row;
+        justify-content: left;
+        align-items: start;
+        border: 2px solid rgb(40, 40, 40);
+        background-color: rgb(199, 193, 193);
+
+        margin: 30px 30px 30px 30px;
+      }
+      .Close {
+        position :absolute;
+        font-size: 30px;
+        width: 46px;
+        border-radius: 100%;
+        background-color: black;
+        color: white;
+        font-weight: 800;
+        border: none;
+
+        margin-top: -14px;
+        margin-left: -14px;
+        padding: 2px 2px 2px 2px;
+
+        transition: background-color 0.15s, color 0.15s, opacity 0.15s;
+      }
+      .Close:hover {
+        background-color: red;
+        color: black;
+      }
+      .Close:active {
+        opacity: 0.5;
+      }
+        </style>
+  </head>
+  <body>
+    <div class="box">
+      <button class="Close">&#10005;</button>
+    </div>
+  </body>
+</html>
